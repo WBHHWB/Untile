@@ -5,4 +5,7 @@ package Package;
  * @create 2022-05-28 20:06
  */
 public class sasd {
+    public static void main(String[] args) {
+        System.out.println("你好！");
+    }
 }
